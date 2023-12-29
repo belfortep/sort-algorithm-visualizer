@@ -1,0 +1,19 @@
+
+body {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+}
+
+#graphic {
+        height: 150px;
+        display: flex;
+        align-items: flex-end;
+}
+
+
+
+.bar {
+        width: 10px;
+        background-color: black;
+}
